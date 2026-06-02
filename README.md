@@ -30,6 +30,7 @@ Alerts investigated:
 | 234 | RDP Brute Force Detected | True Positive |
 | 250 | Application Token Steal Attempt | True Positive |
 | 257 | Phishing — Deceptive Mail with RAT Payload | True Positive |
+| 164 | Suspicious Mshta Behavior | True Positive |
 
 ---
 
