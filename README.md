@@ -73,3 +73,9 @@ The `methodology.md` file in this folder documents the approach used to simulate
 Tools used: Burp Suite, pytest, requests, BeautifulSoup, ffuf, browser DevTools.
 
 ---
+
+## Infrastructure Projects
+
+A self-hosted NAS built on a Raspberry Pi running headless Debian, using ZeroTier for secure remote access without exposing any ports publicly. Covers SDN-based remote connectivity, CGNAT limitations, and Linux user account hardening using the principle of least privilege.
+
+---
