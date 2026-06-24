@@ -17,3 +17,14 @@ secrets.txt
 # IDE
 .vscode/
 .idea/
+
+# Obsidian internal folder
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/appearance.json
+
+# Any large binary files you don't want in the cloud
+*.exe
+*.iso
+*.bin
