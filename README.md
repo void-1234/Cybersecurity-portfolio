@@ -20,17 +20,18 @@ Eight alert investigations covering phishing, malware delivery, command injectio
 
 Alerts investigated:
 
-| Event | Rule | Verdict |
-|---|---|---|
-| 249 | PAN-OS Command Injection — CVE-2024-3400 | True Positive |
-| 263 | Check Point Arbitrary File Read — CVE-2024-24919 | True Positive |
-| 316 | Lumma Stealer — DLL Side-Loading via ClickFix Phishing | True Positive |
-| 235 | SQL Injection Detected | True Positive |
-| 238 | Suspicious PowerShell Script Executed | True Positive |
-| 234 | RDP Brute Force Detected | True Positive |
-| 250 | Application Token Steal Attempt | True Positive |
-| 257 | Phishing — Deceptive Mail with RAT Payload | True Positive |
-| 164 | Suspicious Mshta Behavior | True Positive |
+| Event | Rule                                                   | Verdict       |
+| ----- | ------------------------------------------------------ | ------------- |
+| 249   | PAN-OS Command Injection — CVE-2024-3400               | True Positive |
+| 263   | Check Point Arbitrary File Read — CVE-2024-24919       | True Positive |
+| 316   | Lumma Stealer — DLL Side-Loading via ClickFix Phishing | True Positive |
+| 235   | SQL Injection Detected                                 | True Positive |
+| 238   | Suspicious PowerShell Script Executed                  | True Positive |
+| 234   | RDP Brute Force Detected                               | True Positive |
+| 250   | Application Token Steal Attempt                        | True Positive |
+| 257   | Phishing — Deceptive Mail with RAT Payload             | True Positive |
+| 164   | Suspicious Mshta Behavior                              | True Positive |
+| 227   | Microsoft SharePoint Server Elevation of Privilege     | True Positive |
 
 ---
 
